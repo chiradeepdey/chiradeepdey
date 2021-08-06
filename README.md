@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![Chiradeep Dey github stats](https://github-readme-stats.vercel.app/api?username=chiradeepdey&show_icons=true&hide_border=false)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiradeepdey)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey)\
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiradeepdey)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
