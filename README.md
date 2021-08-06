@@ -3,7 +3,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" />
   <img alt="C" src="https://img.shields.io/badge/C-3776AB?logo=C&logoColor=white&style=plastic" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=plastic" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white&style=plastic" />
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab-3776AB?logo=Matlab&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=plastic" />
