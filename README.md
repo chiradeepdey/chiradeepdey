@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Chiradeep Dey github stats](https://github-readme-stats.vercel.app/api?username=chiradeepdey&show_icons=true&hide_border=false)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey)\
-#00599C
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" />
   <img alt="C" src="https://img.shields.io/badge/C-3776AB?logo=C&logoColor=white&style=plastic" />
@@ -14,6 +11,11 @@
   
   
 </p>
+
+![Chiradeep Dey github stats](https://github-readme-stats.vercel.app/api?username=chiradeepdey&show_icons=true&hide_border=false)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey)\
+
+
 
 
 <!--
