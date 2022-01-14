@@ -12,9 +12,9 @@
   
 </p>
 
-![Chiradeep Dey github stats](https://github-readme-stats.vercel.app/api?username=chiradeepdey&show_icons=true&hide_border=false)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey)
+![Chiradeep Dey github stats](https://github-readme-stats.vercel.app/api?username=chiradeepdey&show_icons=true&hide_border=false)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeepdey&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
